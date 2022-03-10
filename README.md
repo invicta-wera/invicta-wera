@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @invicta-wera
+- 👋 Hi, I’m @invicta-wera - Weronika Macholl
 - 👀 I’m interested in Python data analysis (Pandas, Numpy, Matplotlib, Seaborn), Rstudio.
 - 🌱 I’m currently learning R, Java.
 - 📫 How to reach me: weronikamacholl0@gmail.com
